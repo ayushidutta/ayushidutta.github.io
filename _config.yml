@@ -9,7 +9,8 @@ tagline:             'MS by Research, IIIT Hyderabad'
 description:         'A <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme called <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>, made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://ayushidutta.github.io/
 baseurl:             ''
-paginate:            5
+paginate_path:       "/blog/page:num/"
+paginate:            15
 
 # About/contact
 author:
