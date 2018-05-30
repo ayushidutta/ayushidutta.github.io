@@ -6,8 +6,8 @@ permalink:           pretty
 # Setup
 title:               Ayushi Dutta
 tagline:             'MS by Research, IIIT Hyderabad'
-description:         'A <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme called <a href="http://jekyllrb.com" target="_blank">Lanyon</a>, made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+description:         'A <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme called <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>, made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 https://ayushidutta.github.io/
 baseurl:             ''
 paginate:            5
 
