@@ -11,4 +11,4 @@ Prior to pursuing my Masters, I worked as a software developer and IT consultant
 
 ### Recent Updates
 
-* __July 2018__ [Master's thesis]({{site.baseurl}}/blog) on "Automatic Image Annotation"
+* __July 2018__ [Master's thesis]({{site.baseurl}}/publications) on "Automatic Image Annotation"
