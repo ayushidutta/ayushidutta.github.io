@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ayushi Dutta"
 title_separator          : "-"
 name                     : &name "Ayushi Dutta"
-description              : &description "Research, Copenhagen"
+description              : &description "Researcher in Machine Learning, Computer Vision, NLP"
 url                      : https://ayushidutta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayushidutta/ayushidutta.github.io"
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Ayushi Dutta"
   avatar           : "profile.png"
-  bio              : "Researcher, Copenhagen"
-  location         : ""
+  bio              : "Researcher in Machine Learning, Computer Vision, NLP"
+  location         : "Copenhagen, Denmark"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y_ANudsAAAAJ&hl=en"
-  email            :
+  email            :  ayushi.dutta@alumni.iiit.ac.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ayushidutta"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000−0001−6958−5017"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ayushidutta24"
   vine             :
   weibo            :
   xing             :
