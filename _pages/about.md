@@ -20,11 +20,3 @@ redirect_from:
 * Aug 2020 - Attended ECCV'20(Online)
 * July 2020 - Our work on "" was accepted in ECCV'20.
 * July 2019 - Defended my Master's thesis on Automatic Image Annotation. Panel members: Prof. [Weinan Zhang](http://wnzhang.net/), Prof. [Weinan Zhang](http://wnzhang.net/), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Weinan Zhang](http://wnzhang.net/).
-
-# Publications 
-[List](/publications/)
-
-### Conference
-
-### Journal 
-
