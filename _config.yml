@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ayushi Dutta"
 title_separator          : "-"
 name                     : &name "Ayushi Dutta"
-description              : &description "Researcher in Machine Learning, Computer Vision, NLP"
+description              : &description "Researcher in Machine Learning, Computer Vision, Natural Language Processing"
 url                      : https://ayushidutta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayushidutta/ayushidutta.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ayushi Dutta"
   avatar           : "profile.png"
-  bio              : "Researcher in Machine Learning, Computer Vision, NLP"
+  bio              : "Researcher in Machine Learning, Computer Vision, Natural Language Processing"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
