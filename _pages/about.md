@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://ayushidutta.github.io/images/ayu.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://ayushidutta.github.io/images/ayu.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
 </p>
 
 # About Me
