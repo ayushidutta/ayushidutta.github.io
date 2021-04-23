@@ -1,10 +1,25 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/Ayushi_Dutta_CV.pdf
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Awards & Honors"
+  #   url: /awards/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blogs"
+  #   url: /year-archive/  
+    
+  # - title: "Guide"
+    # url: /markdown/
