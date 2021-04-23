@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://ayushidutta.github.io/files/ayushidutta.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 # About Me
@@ -21,7 +21,7 @@ redirect_from:
 * July 2020 - Our work on "" was accepted in ECCV'20.
 * July 2019 - Defended my Master's thesis on Automatic Image Annotation. Panel members: Prof. [Weinan Zhang](http://wnzhang.net/), Prof. [Weinan Zhang](http://wnzhang.net/), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Weinan Zhang](http://wnzhang.net/).
 
-# [Recent Publications](/publications/)
+# Publications [List](/publications/)
 
 ## Conference
 
