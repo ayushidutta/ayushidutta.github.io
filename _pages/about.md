@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-  <img src="https://ayushidutta.github.io/images/ayu.jpg?raw=true" alt="Photo" style="width: 200px;"/> 
-</p>
-
 # About Me
 * My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision and Natural Language Processing. I have specifically worked in scene understanding and video understanding related problems. [[CV](https://ayushidutta.github.io/files/Ayushi_Dutta_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Y_ANudsAAAAJ&hl=en)]
 * I received my Master’s Degree in Computer Science from IIIT Hyderabad, India. I worked as a Research Assistant in CVIT Lab, where I was supervised by Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and Prof. [Weinan Zhang](http://wnzhang.net/).
