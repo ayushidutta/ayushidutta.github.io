@@ -1,16 +1,12 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<p align="center">
-  <img src="https://ayushidutta.github.io/files/ayushidutta.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
-</p>
 
 # About Me
 * My research interests lie in the general area of Machine Learning, particularly in Deep Learning, Computer Vision and Natural Language Processing. I have specifically worked in scene understanding and video understanding related problems. [[CV](https://ayushidutta.github.io/files/Ayushi_Dutta_CV.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Y_ANudsAAAAJ&hl=en)]
