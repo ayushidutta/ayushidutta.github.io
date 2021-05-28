@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/eccv20mornn
 excerpt: 
 date: 
-venue: 16th European Conference On Computer Vision (ECCV, 2020
+venue: '16th European Conference On Computer Vision (ECCV, 2020'
 paperurl:
 citation:
 ---
