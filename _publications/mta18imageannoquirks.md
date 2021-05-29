@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/mta18imageannoquirks
 excerpt: 
 date: 2018-06-14
-venue: 'Multimedia Tools and Applications, June 2018'
+venue: 'Multimedia Tools and Applications, June'
 paperurl: 
 citation: 
 ---
