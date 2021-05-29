@@ -9,6 +9,6 @@ paperurl:
 citation: 
 ---
 
-[Doi](https://doi.org/10.1007/s11042-018-6247-3)
-[Code](https://github.com/ayushidutta/image-annot-quirks)
+[[Doi]](https://doi.org/10.1007/s11042-018-6247-3)
+[[Code]](https://github.com/ayushidutta/image-annot-quirks)
 
