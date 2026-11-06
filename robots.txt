@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ayushidutta.github.io/al-folio/sitemap.xml
+Sitemap: https://ayushidutta.github.io/sitemap.xml
